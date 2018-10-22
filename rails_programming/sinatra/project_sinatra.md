@@ -25,6 +25,7 @@ Revisit the caesar cipher ruby script that you created during [Ruby Building Blo
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Mohamed Elattar's Solution [Github](https://github.com/mohamed-elattar/sinatra_project) [Live](https://peaceful-wave-56689.herokuapp.com/caesar_cipher)
 * prw001's Solution [Github](https://github.com/prw001/sinatra_games_suite) [Live](https://safe-peak-15193.herokuapp.com/)
 * Malaika's Solution [Github](https://github.com/malaikaMI/Sinatra_ceaser_cipher)
 * Max Garber's solution [GitHub](https://github.com/bubblebooy/Sinatra_Caesar_Cipher) [Live](https://gentle-meadow-83909.herokuapp.com/)
@@ -114,6 +115,7 @@ Pick either Mastermind or Hangman and build a front end for it.  This one might 
 Send us your solution so we can show others! Submit a link to the Github repo with your files in it here using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  Please include your partner's github handle somewhere in the description if they would like attribution.
 
 * Add your solution below this line!
+* Mohamed Elattar's Solution [Github](https://github.com/mohamed-elattar/sinatra_project) [Live](https://peaceful-wave-56689.herokuapp.com/hangman)
 * prw001's Solution [Github](https://github.com/prw001/sinatra_games_suite) [Live](https://safe-peak-15193.herokuapp.com/)
 * Brendan Tang's solution (Hangman) [GitHub](https://github.com/brendantang/hangman-sinatra) [Live](https://radiant-temple-25499.herokuapp.com/)
 * Max Garber's solution (Hangman) [GitHub](https://github.com/bubblebooy/Sinatra_Hangman) [Live](https://floating-atoll-54622.herokuapp.com/)
